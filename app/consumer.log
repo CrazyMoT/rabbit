@@ -1,0 +1,252 @@
+2024-12-11 00:48:46.026 | INFO     | __main__:start_consumer:52 - Queue 'email_queue' already exists.
+2024-12-11 00:48:46.029 | INFO     | __main__:start_consumer:72 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 00:49:41.007 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 00:49:41.007 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 00:49:44.111 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 00:49:44.111 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 00:49:47.225 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 00:49:47.226 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 00:49:50.341 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 00:49:50.342 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:10.599 | INFO     | __main__:start_consumer:52 - Queue 'email_queue' already exists.
+2024-12-11 01:23:10.601 | INFO     | __main__:start_consumer:72 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 01:23:10.602 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 01:23:20.622 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 01:23:24.463 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:24.463 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:27.574 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:27.574 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:30.635 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 01:23:30.685 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:30.685 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:33.807 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:33.807 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:36.895 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:36.895 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:39.993 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:39.993 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:40.644 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 01:23:43.113 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:43.113 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:46.225 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:46.225 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:49.339 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:49.339 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:23:50.663 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 01:23:52.463 | INFO     | __main__:callback:17 - Received email notification for user@lol.com
+2024-12-11 01:23:52.464 | INFO     | __main__:send_email:10 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 01:24:00.682 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 01:24:10.700 | INFO     | __main__:monitor_queue:29 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:42:42.321 | INFO     | __main__:start_consumer:76 - Queue 'email_queue' already exists.
+2024-12-11 03:42:42.324 | INFO     | __main__:start_consumer:96 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 03:42:42.325 | INFO     | __main__:monitor_queue:53 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:42:52.325 | INFO     | __main__:monitor_queue:53 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:43:01.332 | INFO     | __main__:callback:18 - Received email notification for user@lol.com
+2024-12-11 03:43:01.332 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:43:02.338 | INFO     | __main__:monitor_queue:53 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:43:04.464 | INFO     | __main__:callback:18 - Received email notification for user@lol.com
+2024-12-11 03:43:04.464 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:43:07.571 | INFO     | __main__:callback:18 - Received email notification for user@lol.com
+2024-12-11 03:43:07.571 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:49:45.948 | INFO     | __main__:start_consumer:75 - Queue 'email_queue' already exists.
+2024-12-11 03:49:45.951 | INFO     | __main__:start_consumer:95 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 03:49:45.952 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:49:55.515 | INFO     | __main__:callback:19 - Received email notification for user@lol.com
+2024-12-11 03:49:55.515 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:49:55.955 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:49:58.594 | INFO     | __main__:callback:19 - Received email notification for user@lol.com
+2024-12-11 03:49:58.594 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:50:01.707 | INFO     | __main__:callback:19 - Received email notification for user@lol.com
+2024-12-11 03:50:01.707 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:50:04.846 | INFO     | __main__:callback:19 - Received email notification for user@lol.com
+2024-12-11 03:50:04.846 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:50:05.979 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:50:07.950 | INFO     | __main__:callback:19 - Received email notification for user@lol.com
+2024-12-11 03:50:07.950 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 03:50:15.997 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:50:26.012 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:50:36.028 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:50:46.039 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:50:56.057 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:51:06.070 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:51:16.094 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:51:26.104 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:51:36.111 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:51:46.102 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:51:56.106 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:52:06.115 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:52:16.132 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:52:26.133 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:52:36.140 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:52:46.154 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:52:56.158 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:53:06.170 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:53:16.190 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:53:26.194 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:53:36.208 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:53:46.218 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:53:56.232 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:54:06.242 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:54:16.267 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:54:26.281 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:54:36.286 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:54:46.313 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:54:56.326 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:55:06.335 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:55:16.357 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:55:26.366 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:55:36.371 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:55:46.389 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:55:56.406 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:56:06.419 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:56:16.427 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:56:26.434 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:56:36.446 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:56:46.455 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:56:56.460 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:57:06.470 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 03:57:16.473 | INFO     | __main__:monitor_queue:52 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:01:00.494 | INFO     | __main__:start_consumer:95 - Queue 'email_queue' already exists.
+2024-12-11 04:01:00.496 | INFO     | __main__:start_consumer:115 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:01:00.497 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:01:06.110 | INFO     | __main__:callback:40 - Received email notification for user@lol.com
+2024-12-11 04:01:06.110 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 04:01:09.229 | INFO     | __main__:callback:40 - Received email notification for user@lol.com
+2024-12-11 04:01:09.229 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 04:01:10.513 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:01:12.336 | INFO     | __main__:callback:40 - Received email notification for user@lol.com
+2024-12-11 04:01:12.337 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 04:01:15.458 | INFO     | __main__:callback:40 - Received email notification for user@lol.com
+2024-12-11 04:01:15.458 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello! and body This is a test email
+2024-12-11 04:03:33.588 | INFO     | __main__:start_consumer:95 - Queue 'email_queue' already exists.
+2024-12-11 04:03:33.590 | INFO     | __main__:start_consumer:115 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:03:33.591 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:03:43.594 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:03:53.604 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:04:49.275 | INFO     | __main__:start_consumer:95 - Queue 'email_queue' already exists.
+2024-12-11 04:04:49.278 | INFO     | __main__:start_consumer:115 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:04:49.278 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:04:54.557 | ERROR    | __main__:callback:43 - Failed to process message: too many values to unpack (expected 4)
+2024-12-11 04:04:54.558 | WARNING  | __main__:handle_failed_message:54 - Retrying message 4f07f5aa85f5476e91630cd9a6633dbf, attempt 1.
+2024-12-11 04:04:57.681 | ERROR    | __main__:callback:43 - Failed to process message: too many values to unpack (expected 4)
+2024-12-11 04:04:57.681 | WARNING  | __main__:handle_failed_message:54 - Retrying message 0188d9cc4cd24416b0f3e9225b9eea45, attempt 1.
+2024-12-11 04:04:59.279 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:05:00.788 | ERROR    | __main__:callback:43 - Failed to process message: too many values to unpack (expected 4)
+2024-12-11 04:05:00.788 | WARNING  | __main__:handle_failed_message:54 - Retrying message 798bc6093d984300ae9a67242f12c822, attempt 1.
+2024-12-11 04:05:03.875 | ERROR    | __main__:callback:43 - Failed to process message: too many values to unpack (expected 4)
+2024-12-11 04:05:03.875 | WARNING  | __main__:handle_failed_message:54 - Retrying message 502f7e814f4340e8a9811af956c44fc9, attempt 1.
+2024-12-11 04:05:06.980 | ERROR    | __main__:callback:43 - Failed to process message: too many values to unpack (expected 4)
+2024-12-11 04:05:06.980 | WARNING  | __main__:handle_failed_message:54 - Retrying message d9b4b8c8d128490882e5fea9b51acce2, attempt 1.
+2024-12-11 04:05:09.291 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:05:10.108 | ERROR    | __main__:callback:43 - Failed to process message: too many values to unpack (expected 4)
+2024-12-11 04:05:10.108 | WARNING  | __main__:handle_failed_message:54 - Retrying message 8db8335d9be84af78b4f81b9dcd07c37, attempt 1.
+2024-12-11 04:06:09.933 | INFO     | __main__:start_consumer:95 - Queue 'email_queue' already exists.
+2024-12-11 04:06:09.936 | INFO     | __main__:start_consumer:115 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:06:09.937 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:06:17.196 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:06:17.196 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:06:19.948 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:06:20.321 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:06:20.321 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:06:23.428 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:06:23.428 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:06:26.539 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:06:26.540 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:06:29.659 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:06:29.659 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:06:29.957 | INFO     | __main__:monitor_queue:72 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:06:32.745 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:06:32.745 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:08:07.240 | INFO     | __main__:start_consumer:96 - Queue 'email_queue' already exists.
+2024-12-11 04:08:07.243 | INFO     | __main__:start_consumer:116 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:08:07.243 | INFO     | __main__:monitor_queue:73 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:08:13.443 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:08:13.443 | INFO     | __main__:callback:41 - email,user@lol.com,Notification: Hello, error!,This is a test error
+2024-12-11 04:08:13.443 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:08:16.567 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:08:16.567 | INFO     | __main__:callback:41 - email,user@lol.com,Notification: Hello, email!,This is a test email
+2024-12-11 04:08:16.567 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:08:17.244 | INFO     | __main__:monitor_queue:73 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:08:19.694 | INFO     | __main__:callback:40 - Received email notification for Notification: Hello
+2024-12-11 04:08:19.695 | INFO     | __main__:callback:41 - email,user@lol.com,Notification: Hello, email!,This is a test email
+2024-12-11 04:08:19.695 | ERROR    | __main__:process_notification:33 - Unknown notification type: user@lol.com
+2024-12-11 04:10:10.556 | INFO     | __main__:start_consumer:96 - Queue 'email_queue' already exists.
+2024-12-11 04:10:10.560 | INFO     | __main__:start_consumer:116 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:10:10.560 | INFO     | __main__:monitor_queue:73 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:10:14.900 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:14.900 | WARNING  | __main__:handle_failed_message:55 - Retrying message c1bf165704ab434d8cde3af9f83462dd, attempt 1.
+2024-12-11 04:10:18.012 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:18.012 | WARNING  | __main__:handle_failed_message:55 - Retrying message af3f4a42022a4cada6ed9c17a3a728b5, attempt 1.
+2024-12-11 04:10:20.567 | INFO     | __main__:monitor_queue:73 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:10:21.118 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:21.118 | WARNING  | __main__:handle_failed_message:55 - Retrying message e0839a118990487785977166cd48d101, attempt 1.
+2024-12-11 04:10:24.229 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:24.229 | WARNING  | __main__:handle_failed_message:55 - Retrying message 7147bf59423540ff86692a520b254a12, attempt 1.
+2024-12-11 04:10:27.323 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:27.323 | WARNING  | __main__:handle_failed_message:55 - Retrying message d0d275ec458945d58642916a9453c429, attempt 1.
+2024-12-11 04:10:30.428 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:30.429 | WARNING  | __main__:handle_failed_message:55 - Retrying message 2c8fe93dd78440a8b2f893788ea3031a, attempt 1.
+2024-12-11 04:10:30.577 | INFO     | __main__:monitor_queue:73 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:10:33.526 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:33.526 | WARNING  | __main__:handle_failed_message:55 - Retrying message b667c7630e1b48f1b742f52319b439db, attempt 1.
+2024-12-11 04:10:36.626 | ERROR    | __main__:callback:44 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:10:36.627 | WARNING  | __main__:handle_failed_message:55 - Retrying message 529dea1fcb3b415f957d27f8d7d56a7e, attempt 1.
+2024-12-11 04:13:09.311 | INFO     | __main__:start_consumer:99 - Queue 'email_queue' already exists.
+2024-12-11 04:13:09.314 | INFO     | __main__:start_consumer:119 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:13:09.315 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:13:18.829 | INFO     | __main__:callback:40 - email,error,user@lol.com,Notification: Hello, error!,This is a test error
+2024-12-11 04:13:18.829 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:18.829 | WARNING  | __main__:handle_failed_message:58 - Retrying message 3e380adefdc24aa5bd38f3cc5c72cc10, attempt 1.
+2024-12-11 04:13:19.320 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:13:21.938 | INFO     | __main__:callback:40 - email,email,user@lol.com,Notification: Hello, email!,This is a test email
+2024-12-11 04:13:21.939 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:21.939 | WARNING  | __main__:handle_failed_message:58 - Retrying message ccc7faea6c2249babed75c7e35c2e793, attempt 1.
+2024-12-11 04:13:25.049 | INFO     | __main__:callback:40 - email,info,user@lol.com,Notification: Hello, info!,This is a test info
+2024-12-11 04:13:25.049 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:25.049 | WARNING  | __main__:handle_failed_message:58 - Retrying message 97a7c793251b46f7aba0a8ada941f9eb, attempt 1.
+2024-12-11 04:13:28.169 | INFO     | __main__:callback:40 - email,alert,user@lol.com,Notification: Hello, alert!,This is a test alert
+2024-12-11 04:13:28.169 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:28.169 | WARNING  | __main__:handle_failed_message:58 - Retrying message 236f0a09510343c787d38fa559735687, attempt 1.
+2024-12-11 04:13:29.339 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:13:31.291 | INFO     | __main__:callback:40 - email,error,user@lol.com,Notification: Hello, error!,This is a test error
+2024-12-11 04:13:31.291 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:31.291 | WARNING  | __main__:handle_failed_message:58 - Retrying message 5668ad72af8347388dc1a763a610fad9, attempt 1.
+2024-12-11 04:13:34.379 | INFO     | __main__:callback:40 - email,sms,user@lol.com,Notification: Hello, sms!,This is a test sms
+2024-12-11 04:13:34.379 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:34.379 | WARNING  | __main__:handle_failed_message:58 - Retrying message 2ad762df1ce24a73a3f429349fe39efe, attempt 1.
+2024-12-11 04:13:37.497 | INFO     | __main__:callback:40 - email,error,user@lol.com,Notification: Hello, error!,This is a test error
+2024-12-11 04:13:37.498 | ERROR    | __main__:callback:47 - Failed to process message: too many values to unpack (expected 5)
+2024-12-11 04:13:37.498 | WARNING  | __main__:handle_failed_message:58 - Retrying message 103e815bb7dc44b291ce93644ac871c2, attempt 1.
+2024-12-11 04:14:31.783 | INFO     | __main__:start_consumer:99 - Queue 'email_queue' already exists.
+2024-12-11 04:14:31.785 | INFO     | __main__:start_consumer:119 -  [*] Waiting for messages. To exit press CTRL+C
+2024-12-11 04:14:31.786 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:14:39.396 | INFO     | __main__:callback:40 - email,error,user@lol.com,Notification: Hello error!,This is a test error
+2024-12-11 04:14:39.396 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:39.396 | ERROR    | __main__:handle_error:21 - Error for user@lol.com: Notification: Hello error! - This is a test error
+2024-12-11 04:14:41.797 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:14:42.514 | INFO     | __main__:callback:40 - email,alert,user@lol.com,Notification: Hello alert!,This is a test alert
+2024-12-11 04:14:42.514 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:42.514 | ERROR    | __main__:process_notification:33 - Unknown notification type: alert
+2024-12-11 04:14:45.604 | INFO     | __main__:callback:40 - email,sms,user@lol.com,Notification: Hello sms!,This is a test sms
+2024-12-11 04:14:45.604 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:45.604 | ERROR    | __main__:process_notification:33 - Unknown notification type: sms
+2024-12-11 04:14:48.715 | INFO     | __main__:callback:40 - email,error,user@lol.com,Notification: Hello error!,This is a test error
+2024-12-11 04:14:48.716 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:48.716 | ERROR    | __main__:handle_error:21 - Error for user@lol.com: Notification: Hello error! - This is a test error
+2024-12-11 04:14:51.808 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:14:51.844 | INFO     | __main__:callback:40 - email,alert,user@lol.com,Notification: Hello alert!,This is a test alert
+2024-12-11 04:14:51.844 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:51.844 | ERROR    | __main__:process_notification:33 - Unknown notification type: alert
+2024-12-11 04:14:54.956 | INFO     | __main__:callback:40 - email,email,user@lol.com,Notification: Hello email!,This is a test email
+2024-12-11 04:14:54.956 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:54.956 | INFO     | __main__:send_email:12 - Sending email to user@lol.com with subject Notification: Hello email! and body This is a test email
+2024-12-11 04:14:58.077 | INFO     | __main__:callback:40 - email,info,user@lol.com,Notification: Hello info!,This is a test info
+2024-12-11 04:14:58.077 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:14:58.078 | INFO     | __main__:handle_info:18 - Information for user@lol.com: Notification: Hello info! - This is a test info
+2024-12-11 04:15:01.208 | INFO     | __main__:callback:40 - email,sms,user@lol.com,Notification: Hello sms!,This is a test sms
+2024-12-11 04:15:01.208 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:15:01.208 | ERROR    | __main__:process_notification:33 - Unknown notification type: sms
+2024-12-11 04:15:01.829 | INFO     | __main__:monitor_queue:76 - Queue 'email_queue' has 0 unprocessed messages.
+2024-12-11 04:15:04.334 | INFO     | __main__:callback:40 - email,info,user@lol.com,Notification: Hello info!,This is a test info
+2024-12-11 04:15:04.334 | INFO     | __main__:callback:43 - Received email notification for user@lol.com
+2024-12-11 04:15:04.334 | INFO     | __main__:handle_info:18 - Information for user@lol.com: Notification: Hello info! - This is a test info
